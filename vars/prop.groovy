@@ -1,4 +1,3 @@
-def loadProp() {
 
 
   properties([
@@ -11,5 +10,5 @@ def loadProp() {
 
 
 
-}
+
 

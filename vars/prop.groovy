@@ -1,5 +1,4 @@
-
-
+def call() {
   properties([
       parameters([
           string(name: 'submodule', defaultValue: ''),
@@ -7,6 +6,12 @@
           string(name: 'commit_sha', defaultValue: ''),
       ])
   ])
+
+
+
+}
+
+
 
 
 
